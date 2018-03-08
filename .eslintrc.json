@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+      "quotes": ["warn", "single"]
+  },
+  "env": {
+    "mocha": true,
+    "node": true,
+    "es6": true
+
+  }
+}
